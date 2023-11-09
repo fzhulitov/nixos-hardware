@@ -10,7 +10,7 @@
 	];
 
 	hardware.nvidia.prime = {
-		amdgpuBusId = "PCI:05:00:0";
+		amdgpuBusId = "PCI:65:00:0";
 		nvidiaBusId = "PCI:01:00:0";
 	};
 }
