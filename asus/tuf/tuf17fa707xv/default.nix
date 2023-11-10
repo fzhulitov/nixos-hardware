@@ -3,7 +3,7 @@
 		../../../common/cpu/amd
 		../../../common/cpu/amd/pstate.nix
 		../../../common/gpu/nvidia
-		../../../common/gpu/nvidia/prime.nix
+#		../../../common/gpu/nvidia/prime.nix
 		../../../common/pc/laptop
 		../../../common/pc/ssd
 		../../battery.nix
