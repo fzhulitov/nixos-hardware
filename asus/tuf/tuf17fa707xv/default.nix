@@ -9,7 +9,7 @@
 		../../../common/pc/laptop
 		../../../common/pc/ssd
 		../../battery.nix
-		../../../common/hidpi
+		../../../common/hidpi.nix
 	];
 
 	hardware.nvidia.prime = {
