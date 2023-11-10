@@ -19,7 +19,7 @@
       asus-fx504gd = import ./asus/fx504gd;
       asus-rog-strix-g513im = import ./asus/rog-strix/g513im;
       asus-rog-strix-g733qs = import ./asus/rog-strix/g733qs;
-      asus-tuf-17fa707xv = import ./asus/tuf/tuf17fa707xv;
+      asus-tuf-17fa707xv = import ./asus/tuf/tuf17fa707xv/default.nix;
       asus-zephyrus-ga401 = import ./asus/zephyrus/ga401;
       asus-zephyrus-ga402 = import ./asus/zephyrus/ga402;
       asus-zephyrus-ga502 = import ./asus/zephyrus/ga502;
